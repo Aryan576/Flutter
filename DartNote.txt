@@ -1,0 +1,18 @@
+1)print
+2)Class
+3)String
+4)var a="Aryan";
+  String s1="Aryan shah";
+  const pi=3.14;
+
+5)var a=10;
+  var b=20;
+   var result=a>b?a:b;
+  print(result);
+
+6)  String b="Shah";
+  String c= a+b; 
+    print(a+b);
+    print("THis C= ${c}");//THis For Dart
+
+7) Built In Method for Stirng
